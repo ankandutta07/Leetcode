@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankandutta07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
