@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
