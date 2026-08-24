@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
+| [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
