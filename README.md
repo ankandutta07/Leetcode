@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankandutta07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
@@ -49,5 +51,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
