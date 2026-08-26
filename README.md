@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ankandutta07/Leetcode/tree/master/0052-n-queens-ii) |
+## Greedy
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
