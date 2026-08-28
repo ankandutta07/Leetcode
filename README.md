@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Prefix Sum
 |  |
