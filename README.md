@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/ankandutta07/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
