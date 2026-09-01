@@ -12,6 +12,7 @@
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/ankandutta07/Leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
 | ------- |
