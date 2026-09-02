@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
 | [0260-single-number-iii](https://github.com/ankandutta07/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ankandutta07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
