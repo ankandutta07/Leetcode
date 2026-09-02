@@ -13,6 +13,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ankandutta07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankandutta07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ankandutta07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
