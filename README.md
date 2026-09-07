@@ -25,11 +25,13 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Math
@@ -99,4 +101,16 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ankandutta07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
