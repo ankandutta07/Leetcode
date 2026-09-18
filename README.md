@@ -40,6 +40,7 @@
 | [0043-multiply-strings](https://github.com/ankandutta07/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankandutta07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankandutta07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ankandutta07/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ankandutta07/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankandutta07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
