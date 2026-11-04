@@ -43,6 +43,7 @@
 | [2235-add-two-integers](https://github.com/ankandutta07/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankandutta07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankandutta07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ankandutta07/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ankandutta07/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ankandutta07/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankandutta07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ankandutta07/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
