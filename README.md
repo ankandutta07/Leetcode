@@ -12,6 +12,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ankandutta07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankandutta07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -43,6 +44,7 @@
 | [0043-multiply-strings](https://github.com/ankandutta07/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
+| [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ankandutta07/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankandutta07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankandutta07/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
+| [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankandutta07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
