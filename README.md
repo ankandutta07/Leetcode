@@ -14,6 +14,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankandutta07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankandutta07/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankandutta07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankandutta07/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
