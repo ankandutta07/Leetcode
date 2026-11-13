@@ -16,6 +16,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankandutta07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankandutta07/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/ankandutta07/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankandutta07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankandutta07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +73,7 @@
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankandutta07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
