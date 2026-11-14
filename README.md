@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ankandutta07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ankandutta07/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
@@ -143,4 +144,12 @@
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankandutta07/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankandutta07/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankandutta07/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
