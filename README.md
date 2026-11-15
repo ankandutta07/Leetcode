@@ -19,12 +19,14 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankandutta07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankandutta07/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankandutta07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankandutta07/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankandutta07/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankandutta07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ankandutta07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankandutta07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
