@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/ankandutta07/Leetcode/tree/master/0051-n-queens) |
+| [0189-rotate-array](https://github.com/ankandutta07/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/ankandutta07/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ankandutta07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/ankandutta07/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankandutta07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -49,6 +51,7 @@
 | [0043-multiply-strings](https://github.com/ankandutta07/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ankandutta07/Leetcode/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/ankandutta07/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ankandutta07/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankandutta07/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
