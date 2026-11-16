@@ -79,6 +79,7 @@
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/ankandutta07/Leetcode/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankandutta07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankandutta07/Leetcode/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ankandutta07/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
