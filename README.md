@@ -31,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankandutta07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/ankandutta07/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/ankandutta07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/ankandutta07/Leetcode/tree/master/0148-sort-list) |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankandutta07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ankandutta07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankandutta07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ankandutta07/Leetcode/tree/master/0043-multiply-strings) |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ankandutta07/Leetcode/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankandutta07/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankandutta07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
