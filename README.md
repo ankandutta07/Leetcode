@@ -85,6 +85,7 @@
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/ankandutta07/Leetcode/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankandutta07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankandutta07/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Trie
 |  |
 | ------- |
