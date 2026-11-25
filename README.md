@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/ankandutta07/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/ankandutta07/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ankandutta07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ankandutta07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankandutta07/Leetcode/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankandutta07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -38,6 +39,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ankandutta07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ankandutta07/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankandutta07/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ankandutta07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankandutta07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankandutta07/Leetcode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/ankandutta07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankandutta07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
@@ -100,6 +103,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ankandutta07/Leetcode/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/ankandutta07/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ankandutta07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ankandutta07/Leetcode/tree/master/0389-find-the-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ankandutta07/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
@@ -176,4 +180,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankandutta07/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankandutta07/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankandutta07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
